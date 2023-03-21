@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ff88a6398a507544bc3ea6d124e4a9f, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: Out of these 4 pickup lines which of these has a better chance of rizzing
-    up a baddie?
+  question: Out of these 4 pickup lines which one of these has a better chance of
+    rizzing up a baddie?
+  answers:
+  - 
+  - 
+  - 
+  - 
+  correctAnswerIndex: 0

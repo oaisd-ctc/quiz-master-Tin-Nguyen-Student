@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   question: Who is the creator of rizz?
+  answers:
+  - Mr. Martinez
+  - Kai Cenat
+  - 
+  - 
+  correctAnswerIndex: 0
