@@ -15,8 +15,8 @@ MonoBehaviour:
   question: Out of these 4 pickup lines which one of these has a better chance of
     rizzing up a baddie?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - Are you the sun cause you're pretty hot shawty
+  - 'Are you a controller cause I''m trying to mess with that joystick '
+  - I want you to be the Kyedae to my Tenz
+  - Are you an ocean because I want to put some motion in your ocean
+  correctAnswerIndex: 2

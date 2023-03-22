@@ -5,9 +5,12 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "Quiz Question", fileName = "NewQuestion")]
 public class Questionso : ScriptableObject
 {
-    [TextArea(2, 6)]
+        [TextArea(2,6)]
+    
     [SerializeField] string question = "Enter new question text here";
+    
     [SerializeField] string[] answers = new string[4];
+   
     [SerializeField] int correctAnswerIndex;
     
     public string GetQuestion()

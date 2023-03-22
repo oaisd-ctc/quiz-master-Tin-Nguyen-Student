@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 2
   m_EditorClassIdentifier: 
   question: What is the worst thing to do when talking to a baddie?
+  answers:
+  - Ask her to sit on your face
+  - Ask her for an ara ara
+  - Tell her she should come over to the crib
+  - Tell her to meow like a cat
+  correctAnswerIndex: 0

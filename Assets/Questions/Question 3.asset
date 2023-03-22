@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 3
   m_EditorClassIdentifier: 
   question: What is Rizz?
+  answers:
+  - Getting her discord
+  - When the guy makes the girl giggle hehe
+  - Making a girl who doesn't like you like you
+  - Getting a girl's snap
+  correctAnswerIndex: 2
